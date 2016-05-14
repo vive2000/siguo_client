@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0667D8C2-3201-94FB-ECA6-913D28406347}") = "siguo_client", "Assembly-CSharp-firstpass.csproj", "{5F1528C0-7ED2-89C1-BA58-62ACFC403ECE}"
+EndProject
+Project("{0667D8C2-3201-94FB-ECA6-913D28406347}") = "siguo_client", "Assembly-CSharp.csproj", "{0D6E201F-E6DB-9402-F952-548A02AE65E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1528C0-7ED2-89C1-BA58-62ACFC403ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1528C0-7ED2-89C1-BA58-62ACFC403ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1528C0-7ED2-89C1-BA58-62ACFC403ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1528C0-7ED2-89C1-BA58-62ACFC403ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6E201F-E6DB-9402-F952-548A02AE65E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6E201F-E6DB-9402-F952-548A02AE65E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6E201F-E6DB-9402-F952-548A02AE65E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6E201F-E6DB-9402-F952-548A02AE65E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
